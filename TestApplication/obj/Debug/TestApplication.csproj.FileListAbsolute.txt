@@ -1,0 +1,6 @@
+D:\网站项目开发\项目开发\订房系统\TestApplication\bin\Debug\TestApplication.exe.config
+D:\网站项目开发\项目开发\订房系统\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\网站项目开发\项目开发\订房系统\TestApplication\bin\Debug\TestApplication.exe
+D:\网站项目开发\项目开发\订房系统\TestApplication\bin\Debug\TestApplication.pdb
+D:\网站项目开发\项目开发\订房系统\TestApplication\obj\Debug\TestApplication.exe
+D:\网站项目开发\项目开发\订房系统\TestApplication\obj\Debug\TestApplication.pdb
